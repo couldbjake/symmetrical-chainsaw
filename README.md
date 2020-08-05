@@ -1,2 +1,1 @@
-# symmetrical-chainsaw
-GB.OpenSource.VotingSystem
+SS - ( Symmetrically Sound )
